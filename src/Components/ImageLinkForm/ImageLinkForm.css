@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    width: 700px;
+    height: 70px;
+    justify-content: center;
+    background: #36c;
+    background:
+    linear-gradient(115deg, transparent 75%, rgba(93, 6, 99, 0.3) 75%) 0 0,
+    linear-gradient(245deg, transparent 75%, rgba(93, 6, 99, 0.3) 75%) 0 0,
+    linear-gradient(115deg, transparent 75%, rgba(93, 6, 99, 0.3) 75%) 7px -15px,
+    linear-gradient(245deg, transparent 75%, rgba(93, 6, 99, 0.3) 75%) 7px -15px,
+    rgba(219, 157, 223, 0.1);
+background-size: 15px 30px;
+}
+
+.button {
+    background-color: rgba(1,0,87,0.4);
+}
+
+.textfield {
+    background-color: rgba(247, 240, 247, 0.785);
+}
