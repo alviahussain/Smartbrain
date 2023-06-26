@@ -10,8 +10,8 @@ import Register from './Components/Register/Register';
 import ParticlesBg from 'particles-bg'
 
 const returnClarifaiRequestOptions = (imageURL) => {
-  const PAT = '1b90bd19486f45faa6dd4b31b20c7483';
-  const USER_ID = 'alviahussain';       
+  const PAT = 'your_pat_here';
+  const USER_ID = '';       
   const APP_ID = 'test';
   const IMAGE_URL = imageURL;
 
